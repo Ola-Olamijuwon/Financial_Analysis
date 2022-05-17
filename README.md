@@ -1,5 +1,5 @@
 # Financials-Descriptive-Gap-Analysis
-(Power BI)
+### Power BI
 
 ## Case Study
 The Administrative team will be having a meeting with stakeholders over the Company’s expansion, I’m to give a Descriptive/Gap Analysis of the Company expansion in an easily understood dashboard.
